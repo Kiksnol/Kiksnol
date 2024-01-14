@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **working with Qt**
 
-- 📫 How to reach me **diakonovnikolay@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
